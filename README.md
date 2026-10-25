@@ -5,7 +5,7 @@
 A longitudinal study of documentary evidence on how cryptoassets are acquired, transferred, concealed, converted, and used.
 
 **Author — Dmytro Lande**
-
+![CryptoCrimeEvolution](PIC/cce.png)
 ## Research focus
 
 How do the documented roles of cryptoassets, technologies, and intermediaries change over time, and how can these changes be distinguished from changes in information coverage?
